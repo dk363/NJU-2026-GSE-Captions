@@ -1,9 +1,31 @@
-# 第八讲初稿：仅记录可能引发歧义的识别更正；常规去重、标点和人称修正不记。
+# 2026-10-14 第二轮复查：逐段对照 https://jyywiki.cn/GSE/2026/lect8.md
+# 保留课堂顺序、演示和讲者判断，不把讲义中新增的案例补写为口述。
+# Ralph Loop、CI/CD、Harness engineering 等术语由官方讲义明确。
+# OpenAI Harness engineering：https://openai.com/index/harness-engineering/
+# DeepSeek Harness：https://github.com/deepseek-ai/deepseek-harness
+# Anthropic 并行 C 编译器实验：https://www.anthropic.com/engineering/building-c-compiler
+# Stripe Minions 与 StrongDM 案例仅用于核对讲义，因课堂字幕未展开而未补入口述稿。
+# 下列仅记录可能引发歧义的识别更正；常规去重、标点和人称修正不记。
 
 [[pf]]
 src = "大家还会非常关心的A阵native开发"
 dst = "大家非常关心的Agent Native开发"
 ts = "00:00:03.520 --> 00:00:08.270"
+
+[[pf]]
+src = "就在今天早上TEO宣布今天要reset"
+dst = "就在今天早上，Tibo 宣布今天要 reset"
+ts = "00:00:09.670 --> 00:00:14.070"
+
+[[pf]]
+src = "Grog bot，其实这grb board应该是在开课之前就发布了"
+dst = "Grok Bot 应该在开课之前就发布了"
+ts = "00:00:55.119 --> 00:01:01.509"
+
+[[pf]]
+src = "它背后掉的是这个cloud code的opus s5.5说人话的模型"
+dst = "它背后调用的是 Claude Code 的 Opus 5.5 模型"
+ts = "00:01:20.720 --> 00:01:23.790"
 
 [[pf]]
 src = "帮我去digestion的邮件"
@@ -411,9 +433,19 @@ dst = "三个兄弟文件定义配对契约：英文 foo.md、中文 foo.zh.md �
 ts = "01:10:46.830 --> 01:10:53.670"
 
 [[pf]]
+src = "谁先写谁就是那次的圆，另一侧COAGENT的翻译过来"
+dst = "谁先写谁就是那次的 source，另一侧由 Agent 翻译"
+ts = "01:11:30.250 --> 01:11:38.730"
+
+[[pf]]
 src = "有一个p m p m run verify translation Parry"
 dst = "由 pnpm run verify-translation-pairing 检查"
 ts = "01:11:38.730 --> 01:11:44.830"
+
+[[pf]]
+src = "主要是turtle张子雅和崔天翼"
+dst = "主要贡献者包括 turtle1999、ZiyaZhang 和 tianyicui"
+ts = "01:18:42.700 --> 01:18:49.380"
 
 [[pf]]
 src = "C加加这种本身原生不支持的，它也有dog c振"
@@ -519,6 +551,11 @@ ts = "01:31:48.820 --> 01:31:54.050"
 src = "有没有一个dollar 20的cloud pro的这个价值"
 dst = "还有没有每月 20 美元 Claude Pro 的价值"
 ts = "01:33:10.780 --> 01:33:16.499"
+
+[[pf]]
+src = "我现在又在这个ground bot里面养我的clock code"
+dst = "我还在 Grok Bot 里运行 Claude Code"
+ts = "01:33:20.219 --> 01:33:27.010"
 
 [[pf]]
 src = "OPPOS5.5"
