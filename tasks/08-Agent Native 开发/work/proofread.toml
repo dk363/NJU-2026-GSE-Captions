@@ -1,0 +1,536 @@
+# 第八讲初稿：仅记录可能引发歧义的识别更正；常规去重、标点和人称修正不记。
+
+[[pf]]
+src = "大家还会非常关心的A阵native开发"
+dst = "大家非常关心的Agent Native开发"
+ts = "00:00:03.520 --> 00:00:08.270"
+
+[[pf]]
+src = "帮我去digestion的邮件"
+dst = "帮我digest邮件"
+ts = "00:01:49.520 --> 00:01:52.500"
+
+[[pf]]
+src = "A证的虽然具备长城任务的完成能力"
+dst = "Agent虽然具备长程任务的完成能力"
+ts = "00:02:06.500 --> 00:02:12.920"
+
+[[pf]]
+src = "我可以用一个DEFAST深度优先的方法"
+dst = "我可以用一个depth-first深度优先的方法"
+ts = "00:02:34.520 --> 00:02:40.379"
+
+[[pf]]
+src = "所以这有个breakfast的过程宽度有限的过程"
+dst = "所以这有个breadth-first的过程，宽度优先的过程"
+ts = "00:03:42.200 --> 00:03:49.060"
+
+[[pf]]
+src = "GPT和cloud互相review"
+dst = "GPT和Claude互相review"
+ts = "00:04:18.290 --> 00:04:21.470"
+
+[[pf]]
+src = "从我们从intent到spark到implementation"
+dst = "从intent到spec到implementation"
+ts = "00:06:05.110 --> 00:06:11.160"
+
+[[pf]]
+src = "管理版本状态的git work tree啊，GG是这样的更先进一点的工具"
+dst = "管理版本状态的Git worktree、Jujutsu这样更先进一点的工具"
+ts = "00:08:11.080 --> 00:08:19.900"
+
+[[pf]]
+src = "就是let it feel"
+dst = "就是let it fail"
+ts = "00:10:12.739 --> 00:10:17.850"
+
+[[pf]]
+src = "有个my stone叫dave in"
+dst = "有个milestone叫Devin"
+ts = "00:11:55.900 --> 00:12:00.679"
+
+[[pf]]
+src = "也没有像欧冠那样的思维链的模型"
+dst = "也没有像o1那样的思维链模型"
+ts = "00:12:15.210 --> 00:12:18.130"
+
+[[pf]]
+src = "就是一个breakfast search和deafer search的平衡"
+dst = "就是一个breadth-first search和depth-first search的平衡"
+ts = "00:13:23.970 --> 00:13:27.520"
+
+[[pf]]
+src = "尤其是这种react型的agent"
+dst = "尤其是这种ReAct型的Agent"
+ts = "00:13:29.280 --> 00:13:34.840"
+
+[[pf]]
+src = "给他一个BH或者Python的工具"
+dst = "给它一个Bash或者Python工具"
+ts = "00:14:21.039 --> 00:14:25.100"
+
+[[pf]]
+src = "我给大家准备了一个A枕头，不知道大家有没有实现过一个react类型的A枕头"
+dst = "我给大家准备了一个Agent，不知道大家有没有实现过一个ReAct类型的Agent"
+ts = "00:15:20.160 --> 00:15:25.469"
+
+[[pf]]
+src = "我特意让他偷我的PIAGENT的奥斯"
+dst = "我特意让它读我的pi Agent的auth"
+ts = "00:15:59.720 --> 00:16:05.100"
+
+[[pf]]
+src = "我这里有个相应的run bh"
+dst = "我这里有个相应的run_bash"
+ts = "00:16:45.440 --> 00:16:48.130"
+
+[[pf]]
+src = "直接调用一个API点deep seek点com的chat conditions"
+dst = "直接调用api.deepseek.com的chat completions API"
+ts = "00:18:13.340 --> 00:18:18.040"
+
+[[pf]]
+src = "如果reply里面没有to call"
+dst = "如果reply里面没有tool call"
+ts = "00:18:36.720 --> 00:18:40.920"
+
+[[pf]]
+src = "然后这个pass在，就是API帮你做了一层的pass"
+dst = "然后这个parse，就是API帮你做了一层parse"
+ts = "00:18:48.470 --> 00:18:55.630"
+
+[[pf]]
+src = "如果这个to call是BH的话"
+dst = "如果这个tool call是Bash的话"
+ts = "00:18:56.030 --> 00:19:02.050"
+
+[[pf]]
+src = "有一个脱口id"
+dst = "有一个tool-call ID"
+ts = "00:19:05.770 --> 00:19:08.830"
+
+[[pf]]
+src = "这就是所谓的harness"
+dst = "这就是所谓的Harness"
+ts = "00:21:39.520 --> 00:21:42.270"
+
+[[pf]]
+src = "核心是一个叫RPFLOOP，或者说今天的版本答案吧是一个叫rough loop"
+dst = "核心是一个叫Ralph Loop，或者说今天的版本答案是Ralph Loop"
+ts = "00:22:04.770 --> 00:22:13.020"
+
+[[pf]]
+src = "和刚才的batch调用一样，它会生成一段typescript script"
+dst = "和刚才的Bash调用一样，它会生成一段TypeScript script"
+ts = "00:22:25.260 --> 00:22:31.430"
+
+[[pf]]
+src = "这样他就可以孵化一个sub ent"
+dst = "这样它就可以孵化一个sub-agent"
+ts = "00:22:49.670 --> 00:22:53.020"
+
+[[pf]]
+src = "他就从这个辛普森一家里面借了一个名字，就是这个这位RALPH同学"
+dst = "他就从《辛普森一家》里借了一个名字，就是Ralph Wiggum"
+ts = "00:23:20.710 --> 00:23:28.920"
+
+[[pf]]
+src = "把同一个prompt丢给cloud的杠P当中"
+dst = "把同一个prompt丢给claude -p"
+ts = "00:23:39.560 --> 00:23:46.390"
+
+[[pf]]
+src = "这个学生今天开了一个RAPP"
+dst = "这个学生今天开了一个PR"
+ts = "00:24:48.480 --> 00:24:53.210"
+
+[[pf]]
+src = "尤其是如果这是一个非常长城的任务"
+dst = "尤其是如果这是一个非常长程的任务"
+ts = "00:26:34.190 --> 00:26:41.610"
+
+[[pf]]
+src = "这种对convex不太够的情况"
+dst = "这种context不太够的情况"
+ts = "00:27:06.120 --> 00:27:10.020"
+
+[[pf]]
+src = "比如说一个SPECTMD或者prompt，加上prompt，甚至prom点MD就写在里面"
+dst = "比如说一个SPEC.md加上prompt，甚至PROMPT.md就写在里面"
+ts = "00:28:13.930 --> 00:28:22.820"
+
+[[pf]]
+src = "看现在这个项目有没有变成AI s lap"
+dst = "看现在这个项目有没有变成AI slop"
+ts = "00:30:03.280 --> 00:30:07.180"
+
+[[pf]]
+src = "就要有一个重构agent，这个重构agent你可以设计的HAR实一点"
+dst = "就要有一个重构Agent，这个重构Agent的Harness可以设计得狠一点"
+ts = "00:30:08.700 --> 00:30:16.920"
+
+[[pf]]
+src = "比如说subversion的并行"
+dst = "比如说subagent的并行"
+ts = "00:31:00.200 --> 00:31:04.070"
+
+[[pf]]
+src = "在一个get it work税上"
+dst = "在一个Git worktree上"
+ts = "00:31:37.140 --> 00:31:40.840"
+
+[[pf]]
+src = "long prizon task"
+dst = "long-horizon task"
+ts = "00:31:51.920 --> 00:31:56.620"
+
+[[pf]]
+src = "基于react的agent auto gbt"
+dst = "ReAct Agent、AutoGPT"
+ts = "00:31:57.690 --> 00:32:01.890"
+
+[[pf]]
+src = "线性的cloud code，cloud杠P"
+dst = "线性运行的Claude Code `claude -p`"
+ts = "00:32:01.890 --> 00:32:05.080"
+
+[[pf]]
+src = "PHD的价值已经不如VIAGENT了"
+dst = "PhD的价值已经不如AI Agent了"
+ts = "00:33:05.340 --> 00:33:08.280"
+
+[[pf]]
+src = "rough loop"
+dst = "Ralph Loop"
+ts = "00:33:26.720 --> 00:33:33.239"
+
+[[pf]]
+src = "rough down"
+dst = "`RALPH_DONE`"
+ts = "00:34:04.500 --> 00:34:14.770"
+
+[[pf]]
+src = "阿凯B上下载论文"
+dst = "arXiv上下载论文"
+ts = "00:35:02.080 --> 00:35:09.130"
+
+[[pf]]
+src = "第一个就是弯上的直出"
+dst = "第一张就是one-shot直出"
+ts = "00:37:04.399 --> 00:37:10.120"
+
+[[pf]]
+src = "只有BH的情况"
+dst = "只有Bash的情况"
+ts = "00:38:53.820 --> 00:38:56.100"
+
+[[pf]]
+src = "pad生态……pad本身没有SABON"
+dst = "pi生态……pi本身没有subagent"
+ts = "00:39:26.450 --> 00:39:32.910"
+
+[[pf]]
+src = "第二位测代码永远是错的"
+dst = "第二，未测试的代码永远是错的"
+ts = "00:42:29.339 --> 00:42:33.570"
+
+[[pf]]
+src = "fast pass……斯洛帕斯"
+dst = "fast path……slow path"
+ts = "00:45:25.310 --> 00:45:30.220"
+
+[[pf]]
+src = "发起por request"
+dst = "发起pull request"
+ts = "00:47:42.280 --> 00:47:44.630"
+
+[[pf]]
+src = "点GITHUB……workflows"
+dst = "`.github/workflows`"
+ts = "00:48:56.640 --> 00:49:01.040"
+
+[[pf]]
+src = "在prim m的时代"
+dst = "在pre-LLM时代"
+ts = "00:49:06.750 --> 00:49:11.610"
+
+[[pf]]
+src = "你可以pre commit，在本地"
+dst = "你可以在本地设置pre-commit"
+ts = "00:49:36.690 --> 00:49:43.230"
+
+[[pf]]
+src = "我们get点N就有点E6U点CN"
+dst = "学校的`git.nju.edu.cn`"
+ts = "00:51:15.810 --> 00:51:24.660"
+
+[[pf]]
+src = "github action"
+dst = "GitHub Actions"
+ts = "00:51:29.200 --> 00:51:40.520"
+
+[[pf]]
+src = "github action里面养cloud code……做一个route loop"
+dst = "GitHub Actions里面养Claude Code……做一个Ralph Loop"
+ts = "00:51:41.960 --> 00:51:49.160"
+
+[[pf]]
+src = "在云上的clock code"
+dst = "在云上的Claude Code"
+ts = "00:52:12.840 --> 00:52:17.260"
+
+[[pf]]
+src = "long running的长城的模糊测试"
+dst = "long-running的长期模糊测试"
+ts = "00:52:30.420 --> 00:52:38.330"
+
+[[pf]]
+src = "AGGENTICAI"
+dst = "Agentic AI"
+ts = "00:52:44.400 --> 00:52:50.580"
+
+[[pf]]
+src = "直接checking一个20K的文档"
+dst = "直接check in一个20 KB的文档"
+ts = "00:53:13.070 --> 00:53:20.820"
+
+[[pf]]
+src = "基于rapport的软件维护方式"
+dst = "基于repo的软件维护方式"
+ts = "00:54:13.600 --> 00:54:22.970"
+
+[[pf]]
+src = "AI slap"
+dst = "AI slop"
+ts = "00:57:14.439 --> 00:57:18.960"
+
+[[pf]]
+src = "直接用LAN……把那个字符串烂一下"
+dst = "直接计算字符串长度"
+ts = "00:57:48.480 --> 00:57:56.910"
+
+[[pf]]
+src = "pre commit it hook"
+dst = "pre-commit Hook"
+ts = "00:58:06.760 --> 00:58:09.300"
+
+[[pf]]
+src = "rough loop"
+dst = "Ralph Loop"
+ts = "00:59:42.050 --> 00:59:47.280"
+
+[[pf]]
+src = "pre commit it、post committer、PREPUSH、PRIMERGE"
+dst = "pre-commit、post-commit、pre-push、pre-merge"
+ts = "00:59:54.170 --> 01:00:03.630"
+
+[[pf]]
+src = "harness engineer leverage codex in an agent的first world"
+dst = "Harness engineering: leveraging Codex in an agent-first world"
+ts = "01:00:20.910 --> 01:00:25.620"
+
+[[pf]]
+src = "source点map泄露"
+dst = "source map泄露"
+ts = "01:00:40.580 --> 01:00:45.969"
+
+[[pf]]
+src = "we started with an empty gate repository"
+dst = "We started with an empty Git repository"
+ts = "01:00:54.640 --> 01:01:00.600"
+
+[[pf]]
+src = "按照por request的时候跑快速的门禁，may in呢是欧做全量的认证"
+dst = "pull request时跑快速门禁，`main`上做全量验证"
+ts = "01:01:41.050 --> 01:01:53.260"
+
+[[pf]]
+src = "cargo……Forma"
+dst = "`cargo fmt`"
+ts = "01:02:00.820 --> 01:02:05.840"
+
+[[pf]]
+src = "写的很番茄"
+dst = "写得很 fancy"
+ts = "01:03:04.550 --> 01:03:05.270"
+
+[[pf]]
+src = "Whatever still learn learning"
+dst = "What we're still learning"
+ts = "01:03:06.920 --> 01:03:08.750"
+
+[[pf]]
+src = "codex c i的门控"
+dst = "Codex 的 CI 门控"
+ts = "01:03:15.250 --> 01:03:18.190"
+
+[[pf]]
+src = "close的AI一个A证native的项目"
+dst = "ClosedAI 做一个 Agent Native 项目"
+ts = "01:03:19.570 --> 01:03:23.510"
+
+[[pf]]
+src = "还有一整套巨大无比的ogenic native agent native的门控机制"
+dst = "还有一整套规模巨大的 Agent Native 门控机制"
+ts = "01:03:32.779 --> 01:03:39.530"
+
+[[pf]]
+src = "防止它产生AI s lap"
+dst = "防止它产生 AI Slop"
+ts = "01:03:39.530 --> 01:03:41.310"
+
+[[pf]]
+src = "什么link这种东西"
+dst = "Lint 之类的东西"
+ts = "01:03:48.360 --> 01:03:53.529"
+
+[[pf]]
+src = "需要一个OXRATION的一个调度的agent"
+dst = "需要负责 orchestration 的调度 Agent"
+ts = "01:04:24.100 --> 01:04:28.260"
+
+[[pf]]
+src = "get lab的CI"
+dst = "GitLab CI"
+ts = "01:05:20.110 --> 01:05:21.370"
+
+[[pf]]
+src = "grc bot"
+dst = "Grok Bot"
+ts = "01:06:25.100 --> 01:06:27.660"
+
+[[pf]]
+src = "deep sick harness"
+dst = "DeepSeek Harness"
+ts = "01:07:10.410 --> 01:07:16.119"
+
+[[pf]]
+src = "三个兄弟文件定义的配对的契约"
+dst = "三个兄弟文件定义配对契约：英文 foo.md、中文 foo.zh.md 和一致性记录 foo.i18n.yaml"
+ts = "01:10:46.830 --> 01:10:53.670"
+
+[[pf]]
+src = "有一个p m p m run verify translation Parry"
+dst = "由 pnpm run verify-translation-pairing 检查"
+ts = "01:11:38.730 --> 01:11:44.830"
+
+[[pf]]
+src = "C加加这种本身原生不支持的，它也有dog c振"
+dst = "C++ 本身没有原生支持，也有 Doxygen"
+ts = "01:19:44.840 --> 01:19:48.520"
+
+[[pf]]
+src = "你的doc1整给提取出来"
+dst = "由 Doxygen 提取"
+ts = "01:19:51.160 --> 01:19:54.240"
+
+[[pf]]
+src = "7月3号对等权威塞卡"
+dst = "7 月 3 日左右引入两侧同等权威的 sidecar"
+ts = "01:20:17.040 --> 01:20:22.780"
+
+[[pf]]
+src = "deepi honeys"
+dst = "DeepSeek Harness"
+ts = "01:21:24.640 --> 01:21:27.680"
+
+[[pf]]
+src = "每一个指数上都有HMD"
+dst = "每个目录都有自己的 AGENTS.md"
+ts = "01:22:20.870 --> 01:22:23.510"
+
+[[pf]]
+src = "verify dog budgets"
+dst = "verify-doc-budgets"
+ts = "01:22:23.510 --> 01:22:27.700"
+
+[[pf]]
+src = "文档防止AI stop无线堆积"
+dst = "防止 AI Slop 在文档中无限堆积"
+ts = "01:22:34.840 --> 01:22:39.160"
+
+[[pf]]
+src = "Xgp t"
+dst = "ChatGPT"
+ts = "01:23:41.680 --> 01:23:46.120"
+
+[[pf]]
+src = "mini行上可能稍微麻烦一点"
+dst = "命令行里做这些可能稍微麻烦"
+ts = "01:24:00.419 --> 01:24:02.099"
+
+[[pf]]
+src = "你只要有一些原级的认知"
+dst = "只要有一些元层级的认知"
+ts = "01:24:33.370 --> 01:24:42.979"
+
+[[pf]]
+src = "本地自证CII门禁人工评审"
+dst = "本地自证、CI 门禁和人工评审"
+ts = "01:24:50.770 --> 01:24:55.010"
+
+[[pf]]
+src = "文档jazz stock"
+dst = "文档和 JSDoc"
+ts = "01:25:09.240 --> 01:25:17.720"
+
+[[pf]]
+src = "扩展了这个markdown的fans code block"
+dst = "扩展 Markdown fenced code block 的语法"
+ts = "01:26:22.680 --> 01:26:30.219"
+
+[[pf]]
+src = "skills把怎么做从事怎么做从事什么里分离"
+dst = "Skills 把‘怎么做’从‘做什么’里分离"
+ts = "01:26:32.679 --> 01:26:40.600"
+
+[[pf]]
+src = "Doc sinc c i static c i coverage c i snapshot"
+dst = "doc-sync CI、static CI、coverage CI、snapshot CI"
+ts = "01:26:40.600 --> 01:26:44.060"
+
+[[pf]]
+src = "Wifi translation Paring"
+dst = "verify-translation-pairing"
+ts = "01:27:25.800 --> 01:27:29.720"
+
+[[pf]]
+src = "verify type equivalent"
+dst = "verify-type-equivalence"
+ts = "01:27:36.870 --> 01:27:43.119"
+
+[[pf]]
+src = "文档的分成，税任务到机制的路由"
+dst = "文档分层、从子任务到机制的路由"
+ts = "01:27:54.469 --> 01:28:00.719"
+
+[[pf]]
+src = "社交网络先驱这个FRANSTER迅速吸引了大量的客户，然后它的价格就崩溃了"
+dst = "社交网络先驱 Friendster 迅速吸引大量用户以后，性能就崩溃了"
+ts = "01:30:18.940 --> 01:30:23.630"
+
+[[pf]]
+src = "看别人open手"
+dst = "看别人的 open source"
+ts = "01:31:48.820 --> 01:31:54.050"
+
+[[pf]]
+src = "有没有一个dollar 20的cloud pro的这个价值"
+dst = "还有没有每月 20 美元 Claude Pro 的价值"
+ts = "01:33:10.780 --> 01:33:16.499"
+
+[[pf]]
+src = "OPPOS5.5"
+dst = "Opus 5.5"
+ts = "01:33:27.010 --> 01:33:34.410"
+
+[[pf]]
+src = "它算一个A正点P吧"
+dst = "它只能算一个 agent.py"
+ts = "01:36:56.930 --> 01:37:01.110"
+
+[[pf]]
+src = "DPCHNEX，但是它一切皆插件"
+dst = "DeepSeek Harness，但它‘一切皆插件’"
+ts = "01:37:01.110 --> 01:37:06.010"
