@@ -1,0 +1,56 @@
+# 2026-10-28 已对照第十讲官方讲义复查；下列细节仍无法仅凭字幕可靠确认。
+
+[[db]]
+src = "是某些有很多three set这个问题不可呃不可能突破的界限"
+# 初稿按 ETH/3-SAT 语境写作 3-SAT；原始 ASR 含糊
+ts = "00:00:40.849 --> 00:00:45.369"
+
+[[db]]
+src = "包括你可以把模型的上海门口给proceed下来"
+# 初稿暂作「上下文字口令 / persist」；亦可能是「上下文 / snapshot」一类
+ts = "00:21:55.440 --> 00:21:58.280"
+
+[[db]]
+src = "然后管道给cloud gp对吧"
+# 初稿暂作 Claude；亦可能是 claude / cloud 相关 CLI
+ts = "00:23:05.080 --> 00:23:08.680"
+
+[[db]]
+src = "and sophie和open AI就在讨论讨论这件事情"
+# 初稿按语境写作 Anthropic；ASR 极糊
+ts = "00:19:20.830 --> 00:19:23.270"
+
+[[db]]
+src = "CNIS可能也不是一个非常好的例子"
+# 初稿按讲义写作 Kubernetes；亦可能是 CFS 等调度/系统例子的口误
+ts = "00:41:28.130 --> 00:41:30.710"
+
+[[db]]
+src = "CLO3nos3.779的resort rate"
+# 数字 3.779% 与模型名 Claude 3 Opus 依早期 SWE-bench 表推断
+ts = "00:54:05.530 --> 00:54:09.310"
+
+[[db]]
+src = "一段时间以前把那个呃棒从ZIG全部迁移到rust"
+# 初稿暂作 Cloudflare；「棒」原文不清
+ts = "00:58:01.440 --> 00:58:09.980"
+
+[[db]]
+src = "他有一个问题系统提示词system prompt存在request header里其他消息存在surface的事件里"
+# surface / request header 字段名仅凭 ASR；需对照 dsh 源码或回放确认
+ts = "01:14:29.920 --> 01:14:38.680"
+
+[[db]]
+src = "Verify runtimeClosureClimbdomainGraphCoris config"
+# 一串 checker 名 ASR 粘连严重，release 中仅保留「和项目相关的检查」概述
+ts = "01:27:14.200 --> 01:27:16.540"
+
+[[db]]
+src = "wonder的更新应该怎么处理"
+# 可能是 worker / render / Wander 专有名；未在讲义中出现
+ts = "01:29:36.300 --> 01:29:38.840"
+
+[[db]]
+src = "我不知道OpenAI或者ESHOP有没有在干类似的事情"
+# 初稿 Anthropic；亦可能是某实验室/机构名
+ts = "00:50:13.800 --> 00:50:17.560"
