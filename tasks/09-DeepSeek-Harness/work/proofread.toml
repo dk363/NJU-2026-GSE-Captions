@@ -1,0 +1,275 @@
+# 2026-10-28 初校 + 对照 https://jyywiki.cn/GSE/2026/lect9.md 复查
+# 保留课堂顺序、演示和讲者判断，不把讲义中新增的案例补写为口述。
+# DeepSeek Harness / dsh、Cordis、Session、Agent、slots、GenUI、MapReduce、Event Sourcing、
+# Creator Mode、Excalidraw、Grok Bot、WorkBuddy 等术语由官方讲义明确。
+# 下列仅记录可能引发歧义的识别更正；常规去重、标点和人称修正不记。
+
+[[pf]]
+src = "ANTHROPIC说呃get it他们已经不够用了对吧"
+dst = "Anthropic 说 Git 已经不够用了"
+ts = "00:00:17.910 --> 00:00:21.140"
+
+[[pf]]
+src = "甚至sub agent还可以再创建出更多的SUBVERGENT"
+dst = "甚至 sub-agent 还可以再创建出更多的 sub-agent"
+ts = "00:01:05.760 --> 00:01:09.420"
+
+[[pf]]
+src = "它一定是和这个ripple里面的某一某一些部分"
+dst = "它一定和 repo 里的某些部分相关"
+ts = "00:01:51.910 --> 00:01:55.830"
+
+[[pf]]
+src = "那我们就选了这个DPC卡点"
+dst = "我就选了 DeepSeek Harness"
+ts = "00:03:25.730 --> 00:03:29.450"
+
+[[pf]]
+src = "如果我们要从零开始构建一个A证函数"
+dst = "如果要从零开始构建一个 Agent Harness"
+ts = "00:04:01.170 --> 00:04:03.730"
+
+[[pf]]
+src = "我们怎么样在这个呃depc harness上做二次的开发"
+dst = "我们怎样在 DeepSeek Harness 上做二次开发"
+ts = "00:04:23.560 --> 00:04:25.560"
+
+[[pf]]
+src = "如果你们用这个grill v stocks然后去做那个live1"
+dst = "如果你们用 grow with stocks 去做那个 L1"
+ts = "00:04:55.270 --> 00:04:58.310"
+
+[[pf]]
+src = "比如说在PRLM时代"
+dst = "在 pre-LLM 时代"
+ts = "00:05:53.790 --> 00:05:56.720"
+
+[[pf]]
+src = "我全部都是许愿石的"
+dst = "全部都是许愿式的"
+ts = "00:06:08.240 --> 00:06:09.240"
+
+[[pf]]
+src = "这就是一个agent honeys"
+dst = "这就是一个 Agent Harness"
+ts = "00:06:36.649 --> 00:06:38.749"
+
+[[pf]]
+src = "因为大模型推理对吧他是呃responses a API"
+dst = "因为大模型推理是 Responses API"
+ts = "00:06:43.740 --> 00:06:48.359"
+
+[[pf]]
+src = "我要一个比例基本真实的南大仙林校区的呃三三维图"
+dst = "我要一个比例基本真实的南大仙林校区三维图"
+ts = "00:07:26.090 --> 00:07:33.450"
+
+[[pf]]
+src = "有一个网站叫open street map"
+dst = "有一个网站叫 OpenStreetMap"
+ts = "00:08:19.600 --> 00:08:22.499"
+
+[[pf]]
+src = "像像他们不管是用GB t office还是就deep sick"
+dst = "不管是用 GPT 还是 DeepSeek"
+ts = "00:09:32.660 --> 00:09:36.260"
+
+[[pf]]
+src = "他们说deep sick flash的新版的这种图形能力很强"
+dst = "说 DeepSeek Flash 新版图形能力很强"
+ts = "00:09:36.260 --> 00:09:40.040"
+
+[[pf]]
+src = "那个直接进城就终止了"
+dst = "进程就直接终止了"
+ts = "00:10:48.600 --> 00:10:50.320"
+
+[[pf]]
+src = "是没有绘画保存的功能的"
+dst = "没有会话保存的功能"
+ts = "00:10:54.800 --> 00:10:57.330"
+
+[[pf]]
+src = "也没有写这个网络中断以后从事嗯"
+dst = "也没有写网络中断以后重试"
+ts = "00:10:59.490 --> 00:11:02.770"
+
+[[pf]]
+src = "这其实就是第三首complexity"
+dst = "这其实就是 essential complexity"
+ts = "00:11:11.150 --> 00:11:14.050"
+
+[[pf]]
+src = "那我启动就可能需要223分钟的时间"
+dst = "启动就可能需要两三分钟的时间"
+ts = "00:12:31.380 --> 00:12:35.740"
+
+[[pf]]
+src = "traction由你来close"
+dst = "transaction 由你来 close"
+ts = "00:13:14.480 --> 00:13:15.720"
+
+[[pf]]
+src = "我我又让这个AI来假装自己要做一个嗯work body对吧"
+dst = "我又让 AI 假装自己要做一个 WorkBuddy"
+ts = "00:15:31.380 --> 00:15:36.440"
+
+[[pf]]
+src = "外部内容与指定隔离"
+dst = "外部内容与指令隔离"
+ts = "00:16:57.730 --> 00:16:59.090"
+
+[[pf]]
+src = "那么你们大概率就会陷入一个slop的状态"
+dst = "大概率就会陷入 AI Slop 的状态"
+ts = "00:17:13.950 --> 00:17:16.930"
+
+[[pf]]
+src = "然后突然今天GROWBOT火了对吧"
+dst = "然后突然今天 Grok Bot 火了"
+ts = "00:18:13.480 --> 00:18:16.340"
+
+[[pf]]
+src = "就比如说这是DEEPC康康雷斯"
+dst = "就比如说 DeepSeek Harness"
+ts = "00:19:55.990 --> 00:19:58.990"
+
+[[pf]]
+src = "就有了不止一个人呃去release了这个d s h bot"
+dst = "不止一个人去 release 了这个 dsh-bot"
+ts = "00:20:04.380 --> 00:20:08.930"
+
+[[pf]]
+src = "Cloud code open code这些这些都有还有字节字节系的对吧还有那时候没有work body有cold body"
+dst = "Claude Code、OpenCode 这些都有，还有字节系的；那时候没有 WorkBuddy，有 CodeBuddy"
+ts = "00:22:28.980 --> 00:22:35.839"
+
+[[pf]]
+src = "谁说deep pick不加班的对吧"
+dst = "谁说 DeepSeek 不加班的"
+ts = "00:22:49.709 --> 00:22:51.409"
+
+[[pf]]
+src = "连那时候还有cloud cloud导弹MD对吧"
+dst = "连那时候还有 Claude.md"
+ts = "00:22:59.410 --> 00:23:01.330"
+
+[[pf]]
+src = "绘画然后session可以向这个agent里面发送一个"
+dst = "Session（会话），Session 可以向 Agent 发送一个"
+ts = "00:24:24.579 --> 00:24:31.040"
+
+[[pf]]
+src = "比如说丁经典的这个LINUXAPARTYMICOPHP对吧"
+dst = "比如说经典的 Linux、Apache、MySQL、PHP"
+ts = "00:28:57.860 --> 00:29:01.520"
+
+[[pf]]
+src = "你只要判only的记下来"
+dst = "你只要 append-only 地记下来"
+ts = "00:29:49.520 --> 00:29:52.120"
+
+[[pf]]
+src = "这个啊jeff in和SJ发了一篇文章"
+dst = "Jeff Dean 和 Sanjay Ghemawat 发了一篇文章"
+ts = "00:33:36.719 --> 00:33:42.800"
+
+[[pf]]
+src = "Everything is a plugin"
+dst = "Everything is a plugin"
+ts = "00:39:11.900 --> 00:39:13.730"
+
+[[pf]]
+src = "他有一篇他先发了一篇论文嗯叫CORDIS"
+dst = "他先发了一篇论文叫 Cordis"
+ts = "00:40:15.610 --> 00:40:18.790"
+
+[[pf]]
+src = "而cortex的设计就这个想法"
+dst = "而 Cordis 的设计就这个想法"
+ts = "00:40:57.570 --> 00:41:00.700"
+
+[[pf]]
+src = "他的session啊pon only的session event日志是唯一的这个ground truth"
+dst = "他的 Session——append-only 的 session event 日志——是唯一的 ground truth"
+ts = "00:42:53.270 --> 00:42:57.450"
+
+[[pf]]
+src = "而是从这个devive message派生的"
+dst = "而是从 deriveMessages 派生的"
+ts = "00:43:00.270 --> 00:43:02.410"
+
+[[pf]]
+src = "这就是一般缩ING对吧他也用了event socing"
+dst = "这就是 Event Sourcing，他也用了 Event Sourcing"
+ts = "00:43:04.890 --> 00:43:08.210"
+
+[[pf]]
+src = "比如说它有几大抽象session是list of event"
+dst = "比如说它有几大抽象：Session 是 list of event"
+ts = "00:47:26.760 --> 00:47:29.900"
+
+[[pf]]
+src = "然后以及比如说可以向agent提交输入可以follow up可以inject可以steer"
+dst = "以及可以向 Agent 提交输入：可以 followup、可以 inject、可以 steer"
+ts = "00:50:28.040 --> 00:50:32.820"
+
+[[pf]]
+src = "你看叫叫agent下的PRESTEP"
+dst = "叫 agent/pre-step"
+ts = "00:51:45.770 --> 00:51:48.290"
+
+[[pf]]
+src = "这better side8你想要得到vs code的体验"
+dst = "这是 better-sidebar：你想要得到 VS Code 的体验"
+ts = "00:57:20.680 --> 00:57:26.460"
+
+[[pf]]
+src = "他有个creator mode"
+dst = "他有个 Creator Mode"
+ts = "00:58:30.730 --> 00:58:32.520"
+
+[[pf]]
+src = "十十十十次方就是一1‰"
+dst = "十次方就是 1/1024"
+ts = "01:04:08.110 --> 01:04:11.330"
+
+[[pf]]
+src = "比如说两个户口都可法一个要求停止另一个要求要继续对吧"
+dst = "比如说两个 Hook，一个要求停止、另一个要求继续"
+ts = "01:04:51.289 --> 01:04:57.230"
+
+[[pf]]
+src = "它只是说它减少了一些accidental capacity"
+dst = "它减少了一些 accidental complexity"
+ts = "01:04:35.450 --> 01:04:38.170"
+
+[[pf]]
+src = "我第一个想要接入的是super rap"
+dst = "我第一个想要接入的是 Super App"
+ts = "01:07:54.349 --> 01:07:57.629"
+
+[[pf]]
+src = "大家用过这个excel吗"
+dst = "大家用过这个 Excalidraw 吗"
+ts = "01:09:36.030 --> 01:09:38.230"
+
+[[pf]]
+src = "它是excelly door"
+dst = "它是 Excalidraw"
+ts = "01:11:33.340 --> 01:11:35.270"
+
+[[pf]]
+src = "这不就是一个对吧generative ui的呃一个应用吗"
+dst = "这不就是一个 Generative UI 的应用吗"
+ts = "01:13:57.210 --> 01:14:01.270"
+
+[[pf]]
+src = "比如说我只要约定这个DAVE啊一个叫DSH打NMUI的一个DF"
+dst = "比如说我只要约定这个 div——一个叫 dsh-genui 的一个 div"
+ts = "01:14:12.360 --> 01:14:21.830"
+
+[[pf]]
+src = "让我下节课再来讲这个dvi honeys里面那个agent native开发的啊部分好"
+dst = "让我下节课再来讲这个 DeepSeek Harness 里面那个 Agent Native 开发的部分。好"
+ts = "01:29:17.270 --> 01:29:22.510"
